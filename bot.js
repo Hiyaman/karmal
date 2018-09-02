@@ -1122,4 +1122,4 @@ if(cmd === `${prefix}coins`) {
 
 
 
-client.login('NDg1ODY0NjcxNTU2MTQxMDU2.Dm2wlQ.fKdLV-CWkjxKlFrni564Q31gmwY');
+client.login(process.env.BOT_TOKEN);
